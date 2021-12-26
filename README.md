@@ -2,7 +2,7 @@
 The Global Terrorism Database (GTD)TM is the most comprehensive unclassified database of
 terrorist attacks in the world.
 The GTD is an open-source database, which provides information on domestic and international
-terrorist attacks around the world since 1970, and now includes more than 200,000 events.
+terrorist attacks around the world since 1970, and now includes more than 200,000 events.The database is maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
 ![Data_summary](https://user-images.githubusercontent.com/88651007/147401864-60b722c5-9c98-44b5-a641-e2b6af7d6886.PNG)
 ![attacks AcrossYears](https://user-images.githubusercontent.com/88651007/147401903-f7190b69-8c00-44cd-9626-245ce9af6fb7.png)
 ![AttacksAcrossYears_1](https://user-images.githubusercontent.com/88651007/147401884-18b9153b-bcd7-46d1-b9f5-54109cb8b1a1.png)
